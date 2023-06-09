@@ -1,0 +1,53 @@
+body{
+  background-color: blanchedalmond;
+  font-family: 'Manrope', sans-serif;
+}
+
+p.clubs {
+    font-weight: bold;
+    color: blue;
+  }
+  img.soccer{
+    width:200px;
+    height:150px;
+    object-fit: cover;
+    border-radius: 50px;
+    display:flex;
+    justify-content: center;
+
+  }
+
+  .middle{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .alignright{
+    margin-bottom: 13em;
+  }
+
+  .frontimg{
+    width: 300px;
+    border-radius: 50px;
+    float: none;
+  }
+
+  .contactinfo{
+    display:flex;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .ftbinfo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  p.phototag{
+   color: blue;
+  }
+
+  
